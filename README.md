@@ -1,7 +1,7 @@
 # Cecure Intelligence limited 
 [We build modern digital products with experienced development teams.](https://cecureintel.com/)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<img src="https://raw.githubusercontent.com/Mobolaji-Github/module-1/a4edcb7a2255f4c44f8bbce6294d18c11350357a/qr-code/Mobolaji_Bada.svg" width="200"/>
 
 # Module 1 practicals for Cohort-4
 This is to facilitate the broad understanding of the various domains.
