@@ -1,7 +1,6 @@
 # Cecure Intelligence limited 
 [We build modern digital products with experienced development teams.](https://cecureintel.com/)
 
-<img src="https://raw.githubusercontent.com/Mobolaji-Github/module-1/a4edcb7a2255f4c44f8bbce6294d18c11350357a/qr-code/Mobolaji_Bada.svg" width="200"/>
 
 # Module 1 practicals for Cohort-4
 This is to facilitate the broad understanding of the various domains.
@@ -11,7 +10,9 @@ These domains are
 * Cloud Engineering
 * Front-end developer
 
-<p> Paragraph ---- Feel free to correct my errors and add more domains 😉. <p/>
+<p> Paragraph ---- Feel free to correct my errors and add more contents 😉. <p/>
+
+<img src="https://raw.githubusercontent.com/Mobolaji-Github/module-1/a4edcb7a2255f4c44f8bbce6294d18c11350357a/qr-code/Mobolaji_Bada.svg" width="200"/>
 
 
 # Question 1. Describe any layered process you are familiar with similar to the OSI model
