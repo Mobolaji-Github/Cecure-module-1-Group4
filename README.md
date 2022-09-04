@@ -115,7 +115,7 @@ Subnet | 1 | 2 | 👉🏾 4 | 8 | 16 | 32 | 64 | 128 | 256 |
 Host | 256 | 128 | 👉🏾 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 subnet mask | 24 | 25 | 👉🏾 26 | 27 | 28 | 29 | 30 | 31 | 32 |
 
-so for 4 subnetwork the value is 10 i.e __192.168.0.0/10__
+so for 4 subnetwork the value is 26 i.e __192.168.0.0/26__
 subnet mask = __255.255.255.192__ (in binary format)
 
 And each subnetwork is within range of __64__
@@ -140,7 +140,7 @@ Subnet | 1 | 2 | 👉🏾 4 | 8 | 16 | 32 | 64 | 128 | 256 |
 Host | 256 | 128 | 👉🏾 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 subnet mask | 16 | 17 | 👉🏾 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 
-so for 4 subnetwork the value is 10 i.e __172.168.1.0/10__
+so for 4 subnetwork the value is 18 i.e __172.168.1.0/18__
 subnet mask = __255.255.192.0__ (in binary format)
 
 And each subnetwork is within range of __64__
