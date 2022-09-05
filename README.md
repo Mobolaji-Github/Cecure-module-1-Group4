@@ -12,7 +12,6 @@ These domains are
 
 <p> Paragraph ---- Feel free to correct my errors and add more contents 😉. <p/>
 
-<img src="https://raw.githubusercontent.com/Mobolaji-Github/module-1/a4edcb7a2255f4c44f8bbce6294d18c11350357a/qr-code/Mobolaji_Bada.svg" width="200"/>
 
 
 # Question 1. Describe any layered process you are familiar with similar to the OSI model
