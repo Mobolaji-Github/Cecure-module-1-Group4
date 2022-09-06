@@ -155,7 +155,7 @@ S/NO| Network ID | Broadcast ID | Useable IP Address
 
 # 1. Describe what you understand by Scrum, and elaborate on some of it's benefits in software development.
 
-Scrum is a framework for addressing complex adaptive problems while producing high-value products in a productive and creative manner.
+Scrum is an agile framework for addressing complex adaptive problems while producing high-value products in a productive and creative manner.
 Scrum is a lightweight framework that assists individuals, teams, and organizations in creating value by providing adaptive solutions to complex problems.
 
 Scrum necessitates the presence of a Scrum Master in order to foster an environment in which:
