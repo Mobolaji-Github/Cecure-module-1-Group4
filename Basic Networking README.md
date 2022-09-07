@@ -1,20 +1,5 @@
-# Cecure Intelligence limited 
-[We build modern digital products with experienced development teams.](https://cecureintel.com/)
 
-
-# Module 1 practicals for Cohort-4
-This is to facilitate the broad understanding of the various domains.
-These domains are 
-* Data Engineering
-* business analysis
-* Cloud Engineering
-* Front-end developer
-
-<p> Paragraph ---- Feel free to correct my errors and add more contents 😉. <p/>
-
-
-
-# Question 2. What are the NS IP addresses for Google, Facebook and Tesla? 
+# Question 1. What are the NS IP addresses for Google, Facebook and Tesla? 
 
 
 NS stands for ‘nameserver,’ and the nameserver record indicates which DNS server is authoritative for that domain (i.e. which server contains the actual DNS records).
