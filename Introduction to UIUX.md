@@ -21,6 +21,12 @@ is so good It gets me every time as I uselessly try to stop myself from watching
 Ads are constantly annoying since they appear when I least expect them. The majority of the time, I can't wait to click the skip button.
 
 
+
+
+
+
+
+
 # Fundamentals of UI and UX
 
 ### Table of Contents: 
