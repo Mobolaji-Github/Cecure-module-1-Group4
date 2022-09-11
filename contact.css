@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
 
 body{
-    width: fit-content;
+    width: 100%;
     height: 280vh;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     padding-top: 0%;
-    background-color: rgb(150, 148, 148);
+    background-color: rgb(81, 81, 81);
 }
 
 a, li {
@@ -70,23 +70,13 @@ nav{
     color: rgb(48, 167, 232);
     transition: all 0.35s ease-in 0s;
 }
-
 .test{
     width: 100%;
-    height: 50%;
+    height: 100%;
     font-weight: 600;
     font-size: 20px;
-    color: white;
+    color:black;
     font-family: "Montserrat", sans-serif;
-    border-radius: 20px;
-   
-}
-
-.big{
-    font-weight: 700;
-    font-size: 80px;
-    color: rgb(48, 167, 232);
-    font-family: calibri, sans-serif;
 }
    
 .wrapper{
@@ -106,10 +96,15 @@ background-image: url(images/library.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-margin-top: 4px;
+margin-top: 0px;
 }
 
-
+.big{
+    font-weight: 600;
+    font-size: 100px;
+    color:black;
+    font-family: calibri, sans-serif;
+}
 
 button{
     width: 200px;
@@ -119,91 +114,127 @@ button{
     border-radius: 50px;
     font-weight: 700;
     cursor: pointer;
-    color: white;
-    background-color: rgba(48, 168, 232, 0.176);
+    background-color: rgba(48, 168, 232, 0.139);
 }
 
 .bod3{
     width: 100%;
     height: 90vh;
-    background-color: white;
     color: black;
+    background-color: white;
 }
 
-.chan{
+.wrapper2{
     display: flex;
-    width: 100%;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
 }
 
-.left1{
-    flex: 1;
-    width:100%;
-    height: 100%;
-    align-content: center;
-    text-align: center;
-}
-
-.build{
-    width:80%;
-    height: 80%;
-    margin-left: 10px;
-    margin-top: 30px;
-}
-
-.right1{
+.left0{
     flex: 1;
 }
 
-.topics{
-    font-family: calibri, sans-serif;    
-}
-
-.top-text{
+.topic1{
+    margin-left: 30px;
+    font-size: 30px;
     font-family: calibri, sans-serif;
-    width: 60%;
-    font-size: 19px;
+    font-weight: 600;
+}
+
+.test4{
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: calibri, sans-serif;
+}
+
+.reach{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: calibri, sans-serif;
+}
+
+.ema{
+    width: 50px;
+    height: 50px;
+}
+
+.test5{
+    font-size: 20px;
+    font-family: calibri, sans-serif;
+}
+
+.right0{
+    flex: 2;
+}
+
+.ma{
+    width: 80%;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: 40px;
 }
 
 .bod4{
     width: 100%;
     height: 90vh;
     background-color: white;
-}
-
-.chan1{
-    display: flex;
-    width: 100%;
-    height: 100%;
-}
-
-.topics1{
-    font-family: calibri, sans-serif;    
-    width: 60%;
-    margin-left: 80px;
-}
-
-.things{
-    font-family: calibri, sans-serif;
-    width: 60%;
-    font-size: 20px;
-    margin-left: 70px;
     color: black;
-    margin-bottom: 20px;
+    margin-top: 0%;
 }
 
-.left11{
+.wrapper3{
+    display: flex;
+}
+
+.left1{
     flex: 1;
-    width:100%;
-    height: 100%;
-    align-content:flex-start;
 }
 
-.build1{
+.mam{
+    width: 90%;
+    height: 100%;
+    margin-top:20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.right1{
+    flex: 1;
+}
+
+form{
     width:80%;
-    height: 80%;
-    margin-left: 0px;
-    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color:rgb(66, 66, 66);
+    border: 1px solid black;
+    color: white;
+}
+
+textarea{
+    width: 70%;
+    height: 70px;
+    font-size: 15px;
+    margin-top:20px;
+    border-radius: 10px;
+    background-color:rgb(66, 66, 66);
+    border: 1px solid black;  
+}
+
+.buut{
+    width: 100px;
+    height: 30px;
+    margin-top:20px;
+    color:rgb(48, 167, 232);
+    border-radius: 20px;
+    background-color: rgb(66, 66, 66);
+    font-size: medium;
 }
