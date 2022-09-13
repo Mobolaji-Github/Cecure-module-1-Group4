@@ -101,20 +101,10 @@ img{
     color:black;
     font-family: "Montserrat", sans-serif;
 }
-   
-.wrapper{
-    width: 50%;
-    height: 25%;
-    margin-left: 25%;
-    padding-top: 12%;
-}
 
 .bod2{
 width: 100%;
 height: 100vh;
-align-items: center;
-justify-content: center;
-text-align: center;
 background-image: url(images/library.jpeg);
 background-repeat: no-repeat;
 background-size: cover;
@@ -122,12 +112,19 @@ background-position: center;
 margin-top: 0px;
 }
 
+.wrapper{
+    width: 100%;
+    text-align: center;
+    height: 25%;
+    padding-top: 12%;
+}
+
 .big{
     font-weight: 600;
     font-size: 90px;
     color:black;
     font-family: calibri, sans-serif;
-    margin-bottom: 30px;
+    margin: 0%;
 }
 
 .register{
@@ -137,7 +134,7 @@ margin-top: 0px;
     border-radius: 50px;
     font-weight: 700;
     cursor: pointer;
-    margin: 40px 20px;
+    margin: 0px 20px;
     color: rgb(3, 3, 3);
 }
 
